@@ -1,1 +1,2 @@
-# main_repo
+# Industrial & Management Engineering Capstone Project 
+
